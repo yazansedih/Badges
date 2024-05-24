@@ -1,1 +1,1 @@
-console.log("This is Pair Extradinaire Badge.");
+console.log("Hello World");
